@@ -278,4 +278,12 @@ export const fallbackWeather = [
   },
 ];
 
-export const fallbackLabels = ['Today', 'Thu', 'Fri', 'Sat', 'Sun', 'Mon', 'Tue'];
+export const fallbackLabels = [
+  'Today',
+  'Thu',
+  'Fri',
+  'Sat',
+  'Sun',
+  'Mon',
+  'Tue',
+];
